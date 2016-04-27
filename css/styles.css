@@ -1,0 +1,15 @@
+.inputBox {
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: -20px 0 0 -150px;
+}
+
+.inputBox input
+{
+    width: 296px;
+    border-width: 2px;
+}
